@@ -7,10 +7,10 @@
     "require": {
         "php": "^8.1",
         "guzzlehttp/guzzle": "^7.8",
-        "laravel/framework": "^10.41",
+        "laravel/framework": "^10.42",
         "laravel/passport": "^11.10",
         "laravel/sanctum": "^3.3",
-        "laravel/tinker": "^2.8",
+        "laravel/tinker": "^2.9",
         "laravel/ui": "^4.4",
         "yajra/laravel-datatables-oracle": "^10.11"
     },
